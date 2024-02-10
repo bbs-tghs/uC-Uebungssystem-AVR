@@ -5,5 +5,5 @@ Zur Programmierung haben wir AVR Studio zunächst in Version 6, spaäter dann in
 
 Der hier gezeigten Version gingen 5 Varianten voraus. Diese lassen wir hier weg.
 
-![So sieht das Ganze dann aus. Diese Platine noch ohne Bestückungsdruck(./Bilder/20190724_151944.jpg?raw=true "Rev_6")
+![So sieht das Ganze dann aus. Diese Platine noch ohne Bestückungsdruck](./Bilder/20190724_151944.jpg?raw=true "Rev_6")
 
